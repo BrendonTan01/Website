@@ -1,0 +1,13 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+font-size: 30px;
+color: salmon;
+}
+h2{
+color: lime;
+}
+.squiggly{
+font-style: italic;
+}
