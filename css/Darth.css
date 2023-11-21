@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	padding-top: 50px;
+	background-color: teal;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: white;
+	font-size: 100px;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid beige;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2 {
+	font-size: 35px;
+}
+
+h1,h2 {
+	font-family: 'Playfair Display', serif;;
+}
+
+a{
+	color: yellowgreen;
+}
+
+a:hover {
+	background-color: purple;
+	color: white; 
+}
+
+footer{
+	background-color: teal;
+	text-align: center;
+	padding: 50px;
+}
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0px;
+}
+
